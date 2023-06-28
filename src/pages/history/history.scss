@@ -1,0 +1,30 @@
+.calendar-container {
+    height: 100%;
+    margin: 2rem auto;
+    max-width: 800px;
+  
+    .rbc-calendar {
+      height: 100%;
+  
+      .rbc-header {
+        padding: 1rem;
+        background-color: #eee;
+      }
+  
+      .rbc-row {
+        border-top: 1px solid #ccc;
+      }
+  
+      .rbc-event {
+        background-color: #2196f3;
+        color: white;
+        font-size: 0.9rem;
+      }
+  
+      .rbc-selected-cell {
+        background-color: #2196f3 !important;
+        color: white;
+      }
+    }
+  }
+  

@@ -1,0 +1,32 @@
+.login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #008000;
+    flex-direction: column;
+  }
+  
+  .title {
+    color: #fff;
+    font-size: 80px;
+    margin-bottom: 20px;
+  }
+  
+  .admin-message {
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #fff;
+    color: #008000;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
